@@ -1,0 +1,8 @@
+¿Con que modulos contara la aplicacion?
+Mapas, conductores, clientes, pagos, calificaciones, anuncios.
+
+¿Se contara con varias aplicaciones?
+Si. Por tipo de usuario (cliente y conductor).
+
+¿Con que sistemas externos tendremos que interactuar?
+Sistemas de bancos, sistemas de mapas.
