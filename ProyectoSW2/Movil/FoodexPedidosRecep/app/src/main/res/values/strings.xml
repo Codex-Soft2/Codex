@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodexPedidosRecep</string>
+    <array name="EjemploReservasCod">
+        <item>123584</item>
+        <item>121354</item>
+        <item>132148</item>
+        <item>118845</item>
+        <item>448484</item>
+    </array>
+
+    <array name="EjemploReservasNombre">
+        <item>Martha</item>
+        <item>Victor</item>
+        <item>Karen</item>
+        <item>Diego</item>
+        <item>Amir</item>
+    </array>
+
+
+</resources>
